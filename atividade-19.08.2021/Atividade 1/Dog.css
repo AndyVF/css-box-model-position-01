@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:wheat ;
+}
+
+.img1 {
+    border: dashed red 5px;
+    max-width: 200px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.img2 {
+    border: ridge orange 5px;
+    max-width: 200px;
+    margin: 5px;
+    padding: 10px;
+
+}
+
+.img3 {
+    border: outset salmon 5px;
+    max-width: 200px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.img4 {
+    border: solid blue 5px;
+    max-width: 200px;
+    margin: 5px;
+    padding: 10px;
+}
+
+.img5 {
+    border: groove green 5px;
+    max-width: 200px;
+    margin: 5px;
+    padding: 10px;
+}
+
+h1 {
+   margin: 2%;
+   text-decoration: underline;
+}
